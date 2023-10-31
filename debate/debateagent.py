@@ -36,7 +36,7 @@ negativeSpeaker_1 = autogen.AssistantAgent(
 )
 
 negativeSpeaker_2 = autogen.AssistantAgent(
-    name="Rui_Yang",
+    name="Yang_Rui",
     system_message="You're the second defence",
  # configuration for autogen's enhanced inference API which is compatible with OpenAI API
     llm_config=llm_config,  # configuration for autogen's enhanced inference API which is compatible with OpenAI API
